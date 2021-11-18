@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body {
+  background-color: #FCE6C9;
+}
+h1{
+	text-align: center;
+	color: #B22222;
+}
+p{
+	color:#FF7F50;
+	
+}
+.class1{
+	text-align: left;
+	
+}
+.class2{
+	
+	text-align: center;
+}
+.class3{
+	
+	text-align: right;
+}
